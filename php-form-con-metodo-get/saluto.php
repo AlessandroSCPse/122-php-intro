@@ -12,7 +12,7 @@ $lastname = $_GET['lastname'];
 </head>
 <body>
     <!-- Alternative -->
-    <h2>Ciao <?php echo $name . ' ' . $lastname; ?></h1>
+    <h2>Ciao <?php echo $name . ' ' . $lastname; ?></h2>
     <h2>Ciao <?php echo $name; ?> <?php echo $lastname; ?></h2>
 </body>
 </html>
